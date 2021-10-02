@@ -1,0 +1,5 @@
+C:\Users\Satrio\Documents\C#\Jasa\obj\Debug\net5.0\Jasa.csproj.AssemblyReference.cache
+C:\Users\Satrio\Documents\C#\Jasa\obj\Debug\net5.0\Jasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satrio\Documents\C#\Jasa\obj\Debug\net5.0\Jasa.AssemblyInfoInputs.cache
+C:\Users\Satrio\Documents\C#\Jasa\obj\Debug\net5.0\Jasa.AssemblyInfo.cs
+C:\Users\Satrio\Documents\C#\Jasa\obj\Debug\net5.0\Jasa.csproj.CoreCompileInputs.cache
